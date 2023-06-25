@@ -1170,7 +1170,7 @@ color: #2500f9;
     }
     .ques_one{
         width: 945px;
-height: 200px;
+ min-height: 200px;
 background-color: #f5f7fa;
 margin: auto;
     }

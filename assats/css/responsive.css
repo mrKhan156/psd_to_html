@@ -11,11 +11,13 @@
         margin-right: 20px;
     }
     #banner{
+     
    background-position-x: center;
    background-position-y: bottom;
       
     }
     .inner_banner{
+       
         flex-wrap: wrap;
         margin: auto;
        
@@ -325,4 +327,95 @@ max-width: 100%;
     max-width: 400px;
     margin-top: 30px;
                   }
+                  .ques_one{
+                    width: 100%;
+                    height: 100%;
+                    text-align: center;
+                    margin-bottom: 20px;
+                  }
+                  .ques_one h4{
+                    font-size: 20px;
+                    margin: auto;
+                  }
+                  .ques_one p{
+                    width: 100%;
+                    padding: 0 10px;
+                 
+                    
+                  }
+                  .ques_two{
+                    width: 100%;
+                    margin-left: 0;
+                }
+                    .ques_two h4{
+                     line-height: 25px;  
+                     margin-left: 20px;
+                     justify-content: flex-start; 
+                    }
+                    .ques_two .plus{
+                        line-height: 58px;
+                        color: #242f51;
+                        margin-right: 10px;
+                       
+                    }
+                  .ques_two{
+                    width: 100%;
+                    margin-left: 0;
+                }
+                    .ques_two h4{
+                     line-height: 25px;  
+                     margin-left: 20px;
+                     justify-content: flex-start; 
+                    }
+                    .ques_two .plus{
+                        line-height: 58px;
+                        color: #242f51;
+                        margin-right: 10px;
+                       
+                    }
+                  .ques_three{
+                    width: 100%;
+                    margin-left: 0;
+                }
+                    .ques_three h4{
+                     line-height: 25px;  
+                     margin-left: 20px;
+                     justify-content: flex-start; 
+                    }
+                    .ques_three .plus{
+                        line-height: 58px;
+                        color: #242f51;
+                        margin-right: 10px;
+                       
+                    }
+                  .ques_four{
+                    width: 100%;
+                    margin-left: 0;
+                }
+                    .ques_four h4{
+                     line-height: 25px;  
+                     margin-left: 20px;
+                     justify-content: flex-start; 
+                    }
+                    .ques_four .plus{
+                        line-height: 58px;
+                        color: #242f51;
+                        margin-right: 10px;
+                       
+                    }
+                  .ques_five{
+                    width: 100%;
+                    margin-left: 0;
+                }
+                    .ques_five h4{
+                     line-height: 25px;  
+                     margin-left: 20px;
+                     justify-content: flex-start; 
+                    }
+                    .ques_five .plus{
+                        line-height: 58px;
+                        color: #242f51;
+                        margin-right: 10px;
+                       
+                    }
 }
