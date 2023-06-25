@@ -1,0 +1,328 @@
+@media (max-width: 991px){
+    .content{
+        width: 100%;
+        margin: auto;
+    }
+    .nav_bar{
+        display: none;
+    }
+    .nav_bar_btn{
+        display: inline;
+        margin-right: 20px;
+    }
+    #banner{
+   background-position-x: center;
+   background-position-y: bottom;
+      
+    }
+    .inner_banner{
+        flex-wrap: wrap;
+        margin: auto;
+       
+    }
+    .banner_content{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin: auto;
+        flex-basis: 100%;
+    }
+    .banner_img{
+        margin: auto;
+        flex-basis: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+  
+    }
+    .company_heading{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    .company_list{
+        flex-wrap: wrap;
+     gap: 30px;
+    }
+    .inner_features{
+        flex-direction: column;
+        text-align: center;
+    
+    }
+    .feature_heading{
+        margin: auto;
+        text-align: center;
+    }
+    .heading_details{
+        max-width: 400px;
+        margin: auto;
+        text-align: center;
+    }
+    .feature_des{
+        width: 100%;
+        flex-basis: 100%;
+    }
+    .jackpoat_head{
+        flex-direction: column;
+        text-align: center;
+        gap: 30px;
+    }
+    .jackpoat_head img{
+        display: none;
+    }
+    .jackpoat_low{
+ flex-direction: column;
+ text-align: center;
+ gap: 20px;
+ width: 100%;
+ flex-basis: 100%;
+    }
+    .inner_design{
+        flex-direction: column;
+        text-align: center;
+    }
+    .design_details{
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .first_cause{
+flex-basis: 50%;
+    }
+    .second_cause{
+        flex-basis: 50%;
+    }
+    .third_cause{
+        flex-basis: 50%;
+    }
+    .four_cause{
+        flex-basis: 50%;
+    }
+    .five_cause{
+        flex-basis: 50%;
+    }
+    .six_cause{
+        flex-basis: 50%;
+    }
+  .planing_head{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .inner_planing{
+    flex-direction: column;
+  }
+  .planing_img img{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 50px;
+  }
+  .common_btn.see_btn{
+   
+    margin: 20px auto;
+  }
+  .app{
+    flex-basis: 40%;
+text-align: center;
+  }
+  .ux{
+    flex-basis: 40%;
+    text-align: center;
+  }
+  .cloud{
+    flex-basis: 40%;
+    margin-top: 20px;
+    margin-right: ;
+    text-align: center;
+  }
+  .customer{
+    flex-basis: 40%;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .lower_subs{
+    flex-direction: column;
+    margin-bottom: 40px;
+  }
+  .inner_client{
+    flex-direction: column;
+    gap: 40px;
+  }
+  .ques_one{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .ques_one p{
+    width: 100%;
+    padding: 10px;
+    
+  }
+  .ques_two{
+    width: 100%;
+    margin-left: 0;
+}
+    .ques_two h4{
+     line-height: 25px;  
+     margin-left: 20px;
+     justify-content: flex-start; 
+    }
+    .ques_two .plus{
+        line-height: 58px;
+        color: #242f51;
+        margin-right: 10px;
+       
+    }
+  .ques_two{
+    width: 100%;
+    margin-left: 0;
+}
+    .ques_two h4{
+     line-height: 25px;  
+     margin-left: 20px;
+     justify-content: flex-start; 
+    }
+    .ques_two .plus{
+        line-height: 58px;
+        color: #242f51;
+        margin-right: 10px;
+       
+    }
+  .ques_three{
+    width: 100%;
+    margin-left: 0;
+}
+    .ques_three h4{
+     line-height: 25px;  
+     margin-left: 20px;
+     justify-content: flex-start; 
+    }
+    .ques_three .plus{
+        line-height: 58px;
+        color: #242f51;
+        margin-right: 10px;
+       
+    }
+  .ques_four{
+    width: 100%;
+    margin-left: 0;
+}
+    .ques_four h4{
+     line-height: 25px;  
+     margin-left: 20px;
+     justify-content: flex-start; 
+    }
+    .ques_four .plus{
+        line-height: 58px;
+        color: #242f51;
+        margin-right: 10px;
+       
+    }
+  .ques_five{
+    width: 100%;
+    margin-left: 0;
+}
+    .ques_five h4{
+     line-height: 25px;  
+     margin-left: 20px;
+     justify-content: flex-start; 
+    }
+    .ques_five .plus{
+        line-height: 58px;
+        color: #242f51;
+        margin-right: 10px;
+       
+    }
+    .inner_download{
+        flex-direction: column;
+    }
+    .download_detail{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+margin: auto;
+padding: 0 20px;
+max-width: 100%;
+    }
+    .stores{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .download_img img{
+        width: 80%;
+        margin: auto;
+    }
+    .inner_footer{
+        width: 100%;
+    }
+
+}
+/* mobile phone design */
+@media (max-width:667px){
+    .first_cause{
+        flex-basis: 100%;
+     
+        
+            }
+            .second_cause{
+                flex-basis: 100%;
+                margin-top: 30px;
+            }
+            .third_cause{
+                flex-basis: 100%;
+                margin-top: 30px;
+            }
+            .four_cause{
+                flex-basis: 100%;
+                margin-top: 30px;
+            }
+            .five_cause{
+                flex-basis: 100%;
+                margin-top: 30px;
+            }
+            .six_cause{
+                flex-basis: 100%;
+                margin-top: 30px;
+            }
+ .app{
+    flex-basis: 100%;
+    text-align: center;
+    margin: auto;
+    max-width: 400px;
+                  }
+ .ux{
+    flex-basis: 100%;
+    text-align: center;
+    margin: auto;
+    max-width: 400px;
+    margin-top: 30px;
+ }
+  .cloud{
+    flex-basis: 100%;
+    text-align: center;
+    margin: auto;
+    max-width: 400px;
+    margin-top: 30px;
+                  }
+  .customer{
+    flex-basis: 100%;
+    text-align: center;
+    margin: auto;
+    max-width: 400px;
+    margin-top: 30px;
+                  }
+}

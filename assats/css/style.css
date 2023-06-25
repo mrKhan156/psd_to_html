@@ -20,12 +20,12 @@ a{
 .container{
      max-width: 1200px;
      padding: 0 15px;
-     margin: 0 auto;
+  margin: 0 auto;
      width: 100%;
 }
 /* herader style starts */
 header{
-  position: fixed;
+
     width: 100%;
     min-height: 70px;
     display: flex;
@@ -43,8 +43,12 @@ header{
 .logo img{
     width: 100%;
 }
-.nav_bar{
-    
+.nav_bar_btn{
+    display: none;
+    color: #020202;
+    font-size: 30px;
+    border: none;
+    outline: none;
 }
 .nav_bar ul{
  display: flex;
@@ -912,6 +916,7 @@ font-family: "Poppins";
     width: 300px;
     filter: drop-shadow(3.837px 54.866px 31px rgba(144,163,177,0.18));
     margin-right: 20px;
+    margin-top: 30px;
 }
 .pro_card{
     margin-top: 40px;
@@ -1116,6 +1121,7 @@ font-family: "Poppins";
 line-height: 58px;
 color: #dee1e6;
 margin-top: 10px;
+margin-right: 10px;
 
     }
     .fa-arrow-right{
@@ -1131,6 +1137,7 @@ color: #2500f9;
         border-radius: 25px;
         background-color: #eff3f8;
         text-align: center;
+
     }
     /* question section starts */
     .inner_question{
@@ -1328,6 +1335,7 @@ margin-right: 15px;
     /* footer starts */
 
     .inner_footer{
+        margin: auto;
         width: 1638px;
 height: 567px;
 background-color: #09142e;
